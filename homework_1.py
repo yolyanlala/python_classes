@@ -2,7 +2,7 @@ a = 5
 b = 6
 c = 7
 #a
-print((a + b + c )/3)
+print((a + b + c )/
 
 #b
 print(a**c + b**c)
